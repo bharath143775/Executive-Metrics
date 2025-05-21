@@ -27,8 +27,8 @@ Click on each metric to view its dedicated [Wiki page](../../wiki) with business
 
 | Area             | Metric                                                                                     |
 |------------------|---------------------------------------------------------------------------------------------|
-| **EHS**           | [Company Reportable Rate](../../wiki/CRR)                              |
-| **QFS**           | [Complanits Per Million](../../wiki/CPM)                                                                       |
+| **EHS**           | [Company Reportable Rate](../../wiki/Company-Reportable-Rate)                              |
+| **QFS**           | [Complanits Per Million](../../wiki/Complanits-Per-Million)                                                                       |
 |                  | [Sanitation Score (#)](../../wiki/SS)                               |
 | **Service**       | [Casefill Rate (%)](../../wiki/CR)                                     |
 |                  | [External Mfg Attainment (%)](../../wiki/EMfg)                 |
