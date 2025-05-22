@@ -29,15 +29,15 @@ Click on each metric to view its dedicated [Wiki page](../../wiki) with business
 |------------------|---------------------------------------------------------------------------------------------|
 | **EHS**           | [Company Reportable Rate](../../wiki/Company-Reportable-Rate)                              |
 | **QFS**           | [Complanits Per Million](../../wiki/Complanits-Per-Million)                                                                       |
-|                  | [Sanitation Score (#)](../../wiki/SS)                               |
-| **Service**       | [Casefill Rate (%)](../../wiki/CR)                                     |
-|                  | [External Mfg Attainment (%)](../../wiki/EMfg)                 |
-|                  | [OnTime Delivery - FRAD (%)](../../wiki/OTD)                   |
-|                  | [Schedule Adherence (%)](../../wiki/SA)                           |
-| **Cost and Cash** | [OPS P&L Budget ($)](../../wiki/OPS)                                   |
-|                  | [COGS Savings including Restructuring ($)](../../wiki/COGS) |
+|                  | [Sanitation Score (#)](../../wiki/Sanitation-Score)                               |
+| **Service**       | [Casefill Rate (%)](../../wiki/Casefill-Rate)                                     |
+|                  | [External Mfg Attainment (%)](../../wiki/External-Manufacturing-(Mfg)-Attainment)                 |
+|                  | [OnTime Delivery - FRAD (%)](../../wiki/On‐Time-Delivery-–-FRAD)                   |
+|                  | [Schedule Adherence (%)](../../wiki/Schedule-Adherence)                           |
+| **Cost and Cash** | [OPS P&L Budget ($)](../../wiki/OPS-P&L-Budget)                                   |
+|                  | [COGS Savings including Restructuring ($)](../../wiki/KNA-COGS-Savings-including-Restructuring) |
 |                  | [Inventory ($)](../../wiki/Inventory)                                             |
-| **People**        | [Supply Chain Overall Turnover (%)](../../wiki/SCOT)       |
+| **People**        | [Supply Chain Overall Turnover (%)](../../wiki/KNA-Supply-Chain-Overall-Turnover)       |
 |                  | [Minority Representation (%)](../../wiki/MR)       |
 |                  | [Gender Parity (%)](../../wiki/GP)                         |
 
