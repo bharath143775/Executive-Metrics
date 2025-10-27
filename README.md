@@ -40,6 +40,10 @@ Click on each metric to view its dedicated [Wiki page](../../wiki) with business
 | **People**        | [Supply Chain Overall Turnover (%)](../../wiki/KNA-Supply-Chain-Overall-Turnover)       |
 |                  | [Minority Representation (%)](../../wiki/MR)       |
 |                  | [Gender Parity (%)](../../wiki/GP)                         |
+| **Sustainability**        | [GHG Scope 1 & 2 emissions (kg co2)](../../wiki/GHG)       |
+|                  | [Renewable electricity in manufacturing sites (%)](../../wiki/REMS)       |
+|                  | [Water usage in high-risk sites (m3)](../../wiki/WU)                         |
+|                 | [Food Waste normalized ( kg/MT production)](../../wiki/FWN)                         |
 
 ---
 
